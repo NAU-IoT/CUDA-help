@@ -1,5 +1,6 @@
-# CUDA-help
-Some basics on how to get up and running with CUDA. This repo tests against the NVIDIA Jetson Nano.
+# TODO
 
-* CUDA & NVCC installation
-* Basic CUDA code samples and instructions to build
+Ubuntu 20.04 image for the NVIDIA Jetson Nano (2GB & 4GB) based on the image produced from [Qengineering](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) but with additional tools installed and desktop environment removed. 
+
+Includes:
+* CUDA toolkit v10.2.460
